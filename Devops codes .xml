@@ -1,0 +1,4 @@
+yum install + PACAGE NAME   - For install any OS
+service+PACAGE NAME+start   - T0 start PACAGE
+service+PACAGE NAME+ status - To check status
+service+PACAGE NAME+ restart- To configure and restart service
